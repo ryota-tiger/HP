@@ -1,5 +1,6 @@
 | DATE       | NEWS       |
 | :--------- | :--------- |
+| 2024.09.27   | D3の坂上君が[本大学のホームページ](https://www.yokohama-cu.ac.jp/nanobio/news/20240927sakagami.html)に取り上げられました!<br>D1の高桑さんが[本大学のホームページ](https://www.yokohama-cu.ac.jp/nanobio/news/20240927takakuwa.html)に取り上げられました！<br>M2の紀さんが[本大学のホームページ](https://www.yokohama-cu.ac.jp/nanobio/news/20240927kino.html)に取り上げられました！<br>|
 | 2024.08.26 | M1の新城君が[INY2024](https://ao.iams.sinica.edu.tw/site/INY2024/)でBEST POSTER AWARDを受賞しました! |
 | 2024.08    | D3の坂上君が[ANSCSE27](https://anscse27.com)でHONORABLE MENTION POSTER AWARDを受賞しました!<br>D1の高桑さんが[ANSCSE27](https://anscse27.com)でTHE BEST POSTER AWARDを受賞しました！<br>M2の紀さんが[ANSCSE27](https://anscse27.com)でTHE 2nd POSTER AWARDを受賞しました！<br>|
 | 2024.06    | D3の村田さんが[日本コンピュータ化学会2024年春季年会](https://www.sccj.net/events/nenkai/2024sp/)で奨学賞を受賞しました! |
